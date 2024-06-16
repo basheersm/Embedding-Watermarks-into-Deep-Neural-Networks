@@ -47,8 +47,6 @@ python utility/wmark_validate.py result/wrn_WTYPE_random_DIM256_SCALE0.01_N1K4B6
 python utility/draw_histogram_signature.py config/draw_histogram_non.json hist_signature_non.png
 ```
 
-Extracted watermarks from the embedded host network and the non-embedded networks:
-
 ![](images/hist_signature_non.png)
 
 ## License
